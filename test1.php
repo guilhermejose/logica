@@ -1,6 +1,7 @@
 <?php
 
 
-for ($cont=0;$cont<10;$cont++  ) {
-  echo "$cont \n"
+for ($cont=0; $cont<7; $cont++  ) {
+  echo "$cont, don  <br>";
 }
+?>
